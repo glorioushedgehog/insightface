@@ -1,0 +1,78 @@
+insightface:
+0
+correct: 93
+wrong: 7
+93.00% correct
+['Aldo_Paredes', 'Alejandro_Toledo', 'Alex_Penelas', 'Ali_Abbas', 'Ali_Naimi', 'Amram_Mitzna', 'Andre_Agassi']
+running time 199.925478
+100
+correct: 93
+wrong: 7
+93.00% correct
+['Arnoldo_Aleman', 'Bashar_Assad', 'Ben_Affleck', 'Bernardo_Segura', 'Bijan_Namdar_Zangeneh', 'Bill_Simon', 'Bob_Dole']
+running time 259.39788
+200
+correct: 94
+wrong: 6
+94.00% correct
+['Camilla_Parker_Bowles', 'Carlos_Vives', 'Chakib_Khelil', 'Chen_Shui-bian', 'Chok_Tong_Goh', 'Chung_Mong-hun']
+running time 376.811229
+300
+correct: 92
+wrong: 8
+92.00% correct
+'Cristina_Fernandez'
+['Cristina_Fernandez', 'Dalai_Lama', 'David_Bell', 'Dino_de_Laurentis', 'Dolma_Tsering', 'Donatella_Versace', 'Dorthy_Moxley', 'Doug_Duncan']
+running time 416.338162
+400
+correct: 95
+wrong: 5
+95.00% correct
+'Elisabeth_Schumacher'
+['Edmund_Stoiber', 'Elisabeth_Schumacher', 'Elizabeth_Shue', 'Elsa_Zylberstein', 'Frank_Dunham_Jr']
+running time 159.469376
+500
+correct: 97
+wrong: 3
+97.00% correct
+['George_Ryan', 'Hans_Blix', 'Harvey_Weinstein']
+running time 154.909749
+600
+correct: 97
+wrong: 3
+97.00% correct
+'Janica_Kostelic'
+['Herb_Sendek', 'Holly_Hunter', 'Janica_Kostelic']
+running time 183.626458
+700
+correct: 91
+wrong: 9
+91.00% correct
+'Jeb_Bush', 'Jim_OBrien'
+['Jeanne_Moreau', 'Jeb_Bush', 'Jerry_Regier', 'Jesse_Jackson', 'Jimmy_Carter', 'Jim_OBrien', 'John_Jumper', 'John_McCormack', 'John_Rigas']
+running time 168.445603
+800
+correct: 95
+wrong: 5
+95.00% correct
+['Jose_Sarney', 'Judi_Dench', 'Julianne_Moore', 'Kate_Capshaw', 'Kim_Jong-Il']
+running time 146.801998
+900
+correct: 96
+wrong: 4
+96.00% correct
+['Kosuke_Kitajima', 'Lea_Fastow', 'Lino_Oviedo', 'Lynn_Abraham']
+running time 362.733043
+1000
+correct: 96
+wrong: 4
+96.00% correct
+'Martha_Bowen'
+['Mahmoud_Abbas', 'Marissa_Jaret_Winokur', 'Mark_Heller', 'Martha_Bowen']
+running time 190.475456
+1100
+correct: 96
+wrong: 4
+96.00% correct
+['Michel_Temer', 'Mohammed_Al-Douri', 'Nelson_Mandela', 'Nicanor_Duarte_Frutos']
+running time 772.158641

@@ -6,7 +6,7 @@ import math
 import cv2
 from multiprocessing import Pool
 from itertools import repeat
-from itertools import izip
+#from itertools import izip
 from helper import nms, adjust_input, generate_bbox, detect_first_stage_warpper
 
 class MtcnnDetector(object):
@@ -356,7 +356,7 @@ class MtcnnDetector(object):
                 #local_boxes = self.Pool.map( detect_first_stage_warpper, \
                 #        izip(repeat(img), self.PNets[:len(batch)], [scales[i] for i in batch], repeat(self.threshold[0])) )
                 local_boxes = map( detect_first_stage_warpper, \
-                        izip(repeat(img), self.PNets[:len(batch)], [scales[i] for i in batch], repeat(self.threshold[0])) )
+                        zip(repeat(img), self.PNets[:len(batch)], [scales[i] for i in batch], repeat(self.threshold[0])) )
                 total_boxes.extend(local_boxes)
             
             # remove the Nones 
